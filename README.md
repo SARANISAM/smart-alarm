@@ -37,8 +37,4 @@ The app integrates with **YouTube API** to fetch alarm sounds dynamically:
 2. **Get Video ID**  
 The API returns a list of YouTube videos. The app selects one (random or top result) using its `videoId`.
 3. **Play Video**  
-The selected video is then played.
-
-
-4. **Play Video**  
-The selected `videoId` is embedded in an `<iframe>` or played using the **YouTube Player API** at alarm time:
+The selected `videoId` is embedded in an `<iframe>` or played using the **YouTube Player API** at alarm time.
